@@ -414,7 +414,7 @@
 		"tall"			"2"
 		"visible"		"1"
 		"alpha"			"255"
-		"image"					"replay/thumbnails/sidegradient2"
+		"image"					"replay/thumbnails/gradienthurt2"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 	}
@@ -429,7 +429,7 @@
 		"tall"			"2"
 		"visible"		"1"
 		"alpha"			"255"
-		"image"					"replay/thumbnails/sidegradient2"
+		"image"					"replay/thumbnails/gradienthurt2"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 	}

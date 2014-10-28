@@ -87,7 +87,22 @@
 		"enabled"		"1"
 		"textAlignment"	"south-east"	
 		"labelText"		"%Ammo%"
-		
+	}		
+		"AmmoInClipIcon"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"AmmoInClipIcon"
+		"font"			"Icon28"
+		"fgcolor"		"kAmmo"
+		"xpos"			"165"
+		"ypos"			"10"
+		"zpos"			"5"
+		"wide"			"100"
+		"tall"			"72"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"center"	
+		"labelText"		"e"
 	}		
 	"AmmoInClipShadow"
 	{

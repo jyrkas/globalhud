@@ -85,6 +85,27 @@
 		"fgcolor_override" "kWhite"
 		"font"			"Bold35"
 	}
+		"ChargeLabelIcon"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"ChargeLabelIcon"
+		"xpos"			"175"
+		"ypos"			"12"
+		"zpos"			"5"
+		"wide"			"74"
+		"tall"			"65"
+		"autoResize"	"1"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"c"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"fgcolor_override" "kWhite"
+		"font"			"Icon27"
+	}
 
 	"IndividualChargesLabel"
 	{

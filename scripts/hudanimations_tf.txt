@@ -237,12 +237,12 @@ event HudHealthDyingPulse
 event HudHealthDyingPulseLoop
 {
 	RunEvent HudHealthDyingPulse 0.0
-	RunEvent GradientHurt Linear 0.0
+	RunEvent GradientHurt 0.0
 }
 
 event HudHealthDyingPulseStop
 {
-	Animate	GradientHurt	Alpha "1"	Accel 0.0 0.0
+	Animate	GradientHurt	Alpha  "1"	Accel 0.0 0.0
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
 

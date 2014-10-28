@@ -3522,6 +3522,576 @@ Scheme
 				"antialias" "1"
 			}
 		}
+								"Icon8"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon9"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon10"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon11"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon12"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon13"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon14"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon15"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon16"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon17"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"17"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Icon18"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Icon19"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"19"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon20"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon21"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon22"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"22"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon23"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"23"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon24"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon25"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"25"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon26"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon27"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"27"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Icon28"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Icon29"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"29"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon30"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon31"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"31"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon32"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon33"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"33"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon34"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"34"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon35"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"35"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon36"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon37"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"37"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Icon38"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Icon39"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"39"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon40"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon41"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"41"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon42"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon43"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"43"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon44"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon45"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"45"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon46"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"46"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon47"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"47"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Icon48"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Icon49"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"49"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon50"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon51"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"51"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon52"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon53"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"53"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+			"Icon54"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"54"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+				"Icon55"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"55"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon56"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+					"Icon57"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"57"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+						"Icon58"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"58"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+								"Icon59"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"59"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+										"Icon60"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Icon61"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"61"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Icon62"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"62"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+												"Icon63"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"63"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		"Icon64"
+		{
+			"1"
+			{
+				"name"		"NoobHUD One"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
 		"EconFontSmall"
 		{
 			"1"
@@ -5417,6 +5987,11 @@ Scheme
 		{
 		"font" "resource/fonts/StratumBold.ttf"
 		"name" "Stratum1 Web Bold"
+		}	
+		"5"
+		{
+		"font" "resource/fonts/NoobHUD One.ttf"
+		"name" "NoobHUD One"
 		}	
 	}
 }

@@ -146,7 +146,23 @@
 		"textAlignment"	"right"	
 		"font"			"Bold35"
 		"fgcolor"		"kWhite"
-	}								
+	}	
+	"PlayerStatusHealthValueIcon"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueIcon"
+		"xpos"			"110"
+		"ypos"			"93"	[$WIN32]
+		"zpos"			"16"
+		"wide"			"80"
+		"tall"			"32"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"a"
+		"textAlignment"	"right"	
+		"font"			"Icon35"
+		"fgcolor"		"kWhite"
+	}					
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"
