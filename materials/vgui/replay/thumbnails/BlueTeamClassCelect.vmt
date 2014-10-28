@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/replay/thumbnails/BlueTeamClassCelect"
+	"$translucent" 1
+	"$vertexcolor" 1
+}
